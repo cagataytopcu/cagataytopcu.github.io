@@ -1,0 +1,1 @@
+AOS.init({once:!0}),setTimeout(function(){document.querySelector("body").classList.add("show-effects")},300);

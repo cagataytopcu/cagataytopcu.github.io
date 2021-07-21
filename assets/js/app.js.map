@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app.js"],"sourcesContent":["AOS.init({ once: true });\r\n(function() {\r\n  setTimeout(function() {\r\n    document.querySelector(\"body\").classList.add(\"show-effects\");\r\n  }, 300);\r\n})();\r\n"],"file":"app.js","sourceRoot":"/source/"}
